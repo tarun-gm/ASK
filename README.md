@@ -149,6 +149,6 @@ FSK
 
 # Results
 ```
-Attach the output waveform
+THUS THE ASK AND FSK IS PERFORMED USING PYTHON
 ```
 # Hardware experiment output waveform.
